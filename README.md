@@ -1,7 +1,7 @@
 
 ### Hi , I am Alp Erk 👋
 
-_🌱 I am currently working on feature engineering, data analysis and machine learning using Python and its libraries.
+*🌱 I am currently working on feature engineering, data analysis and machine learning using Python and its libraries.
 
 👯 I am looking to collaborate on Feature Engineering Data Science/Analysis or Machine Learning Projects.
 
@@ -9,5 +9,5 @@ _🌱 I am currently working on feature engineering, data analysis and machine l
 
 📫 How to reach me: linkedin.com/in/alp-erk-8479472a7
 
-⚡ Fun fact: I love reading data science and general science articles and watching documentaries._
+⚡ Fun fact: I love reading data science and general science articles and watching documentaries.*
 
